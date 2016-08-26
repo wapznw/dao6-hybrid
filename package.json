@@ -3,7 +3,6 @@
 	"version": "0.0.1",
 	"author": "wdj",
 	"description": "The is maosui hybrid app!",
-	"private": true,
 	"scripts": {
 		"start": "node server.js"
 	},
